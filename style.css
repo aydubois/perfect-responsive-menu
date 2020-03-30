@@ -7,6 +7,10 @@ body {
 	font-family: sans-serif;
 }
 
+.noscroll{
+	overflow-y: hidden;
+}
+
 @media ( max-width: 40rem ) {
 	.navigation button {
 		display: block;
